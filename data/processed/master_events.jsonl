@@ -1,0 +1,98 @@
+{"event_id": "b0a5cff6-b3d6-4400-83c7-0ca4c9d70b73", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_001", "event_type": "ZONE_ENTER", "timestamp": 1.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "4406161d-3e94-4cfa-ac98-5b942047b354", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_001", "event_type": "ZONE_EXIT", "timestamp": 128.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "739765e7-5360-4631-a917-0e35fd614ae4", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_002", "event_type": "ZONE_ENTER", "timestamp": 1.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "dbf6613d-4288-4789-9639-a08710aa4dff", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_002", "event_type": "ZONE_EXIT", "timestamp": 139.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "14202539-e8c1-45dc-91a1-09325ee4247c", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_003", "event_type": "ZONE_ENTER", "timestamp": 23.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "b39758db-3cc9-47c3-88bf-466da25f0ce2", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_003", "event_type": "ZONE_EXIT", "timestamp": 131.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "da87bc57-9fce-436a-9fb2-8e9d25d93a4b", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_004", "event_type": "ZONE_ENTER", "timestamp": 33.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "7815ea54-52e3-4a80-8a86-6e0e349ef03f", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_004", "event_type": "ZONE_EXIT", "timestamp": 34.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "344b1662-749c-4360-8903-64b443f399ef", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_005", "event_type": "ZONE_ENTER", "timestamp": 44.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "dec7972c-e22b-44fd-bf7c-af2e7a6330a4", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_005", "event_type": "ZONE_EXIT", "timestamp": 45.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "f39afa41-7cb3-47e5-bb03-2e71c5cb5f83", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_006", "event_type": "ZONE_ENTER", "timestamp": 51.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "4af347e1-12a5-4fef-a326-99ecd6c3c465", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_006", "event_type": "ZONE_EXIT", "timestamp": 139.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "98f23327-50c2-4dd1-a3cb-2719eb8fa4a4", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_007", "event_type": "ZONE_ENTER", "timestamp": 53.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "e9e6356d-b68d-475b-8dbf-85ecf974a8f5", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_007", "event_type": "ZONE_EXIT", "timestamp": 65.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "823d6d74-3d2b-47e3-8b59-f09d66b9f970", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_008", "event_type": "ZONE_ENTER", "timestamp": 106.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "d42b27db-7a5f-4bee-9394-82ed615ba59e", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_008", "event_type": "ZONE_EXIT", "timestamp": 139.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "f8d25214-2555-4f68-bf03-e2ec3129ce12", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_009", "event_type": "ZONE_ENTER", "timestamp": 139.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "f3e72c33-44f6-4fc8-a24c-812740b22ffb", "store_id": "STORE_001", "camera_id": "CAM_1", "visitor_id": "VIS_009", "event_type": "ZONE_EXIT", "timestamp": 139.0, "zone_id": "CAM1_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "ce79a27b-9f68-4423-94b0-76c7f0f7d40b", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_001", "event_type": "ZONE_ENTER", "timestamp": 1.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "8085ce6f-f6ed-4fcd-8a9c-9f92ad309917", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_001", "event_type": "ZONE_EXIT", "timestamp": 82.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "939f433f-58c6-416e-8bcc-549e04ba8801", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_002", "event_type": "ZONE_ENTER", "timestamp": 1.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "36b1e94c-686b-4b5a-acfc-a8e757bee605", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_002", "event_type": "ZONE_EXIT", "timestamp": 82.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "90a2a169-1cf1-4fcf-8d5c-687e963ae1bd", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_003", "event_type": "ZONE_ENTER", "timestamp": 1.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "0b8e8793-d131-4f23-a9b2-efb7395a5e76", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_003", "event_type": "ZONE_EXIT", "timestamp": 82.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "2e8435b0-b5c6-4145-9108-9e735ea5ada1", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_004", "event_type": "ZONE_ENTER", "timestamp": 1.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "a0d120d1-f1e9-429f-8690-0a6a5cff8ec6", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_004", "event_type": "ZONE_EXIT", "timestamp": 54.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "6fd9255e-a4ce-4107-a995-15c9873142d1", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_005", "event_type": "ZONE_ENTER", "timestamp": 1.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "640c372a-1cc6-4291-939b-d1c0ffed312d", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_005", "event_type": "ZONE_EXIT", "timestamp": 2.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "746570e2-02c7-47e1-b3ee-fe89771839e0", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_006", "event_type": "ZONE_ENTER", "timestamp": 1.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "61afc2ad-26a0-43aa-b98a-5f18f4fd25a5", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_006", "event_type": "ZONE_EXIT", "timestamp": 3.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "9760fda3-b62f-44a4-9f27-346e7e04b52e", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_007", "event_type": "ZONE_ENTER", "timestamp": 4.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "9dad3ba0-cf9b-4ce5-94a1-7d9e8fc4ff1c", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_007", "event_type": "ZONE_EXIT", "timestamp": 26.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "962f5024-03ea-45d0-8619-3f46780cf262", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_008", "event_type": "ZONE_ENTER", "timestamp": 8.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "f0384842-f46b-4e61-a59f-8f7005ac31e3", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_008", "event_type": "ZONE_EXIT", "timestamp": 13.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "ebee7166-ef12-4b50-887f-5637d04d2cb3", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_009", "event_type": "ZONE_ENTER", "timestamp": 12.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "b616fe56-d25d-4002-ab04-35a788760f7d", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_009", "event_type": "ZONE_EXIT", "timestamp": 12.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "d65d7d8b-2d31-4f84-9b07-9b634b3a3d65", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_010", "event_type": "ZONE_ENTER", "timestamp": 14.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "d8d0c71e-79b7-4b34-aaf0-21b21a225d55", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_010", "event_type": "ZONE_EXIT", "timestamp": 48.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "63ffd6a5-7cb5-40da-af49-ff277a9dd9f4", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_011", "event_type": "ZONE_ENTER", "timestamp": 18.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "3186d452-de72-4db0-9fff-dbb65c94ef60", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_011", "event_type": "ZONE_EXIT", "timestamp": 19.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "908cbc7e-1375-4af2-89e1-e67e50eaa04f", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_012", "event_type": "ZONE_ENTER", "timestamp": 19.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "8568c560-6f98-4076-9125-1897a6cec165", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_012", "event_type": "ZONE_EXIT", "timestamp": 81.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "7cf0259d-5dd0-44d5-9f59-b06b3a11260a", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_013", "event_type": "ZONE_ENTER", "timestamp": 20.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "af807e52-0bd5-4bba-a087-d39a01dd3c66", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_013", "event_type": "ZONE_EXIT", "timestamp": 22.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "d77615e6-f457-4657-ba9e-f52f3e7e0cda", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_014", "event_type": "ZONE_ENTER", "timestamp": 37.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "ec1ec9b5-f9a5-464f-a37b-51d8d0c18729", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_014", "event_type": "ZONE_EXIT", "timestamp": 73.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "32986f59-01b4-401d-8714-a7858e94c19d", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_015", "event_type": "ZONE_ENTER", "timestamp": 42.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "6c93a110-b0b1-4a45-8193-628fa4c858dd", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_015", "event_type": "ZONE_EXIT", "timestamp": 82.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "a02380dc-f122-42b3-bde3-310ab8e94ad5", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_016", "event_type": "ZONE_ENTER", "timestamp": 49.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "0ba8273b-58db-4375-bce5-eaaeabde0c59", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_016", "event_type": "ZONE_EXIT", "timestamp": 50.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "c6ae508b-05ff-472e-b8a3-76a22b312d82", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_017", "event_type": "ZONE_ENTER", "timestamp": 56.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "5b2bd93d-d508-4a62-97b4-623019ecc209", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_017", "event_type": "ZONE_EXIT", "timestamp": 81.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "b53838b5-cae1-4251-9491-1d5ae299657b", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_018", "event_type": "ZONE_ENTER", "timestamp": 59.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "4cb3c1d9-a854-43fa-9e6b-2f65c49a366c", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_018", "event_type": "ZONE_EXIT", "timestamp": 74.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "3ed56fed-f30c-408b-8f23-914f2e8e80ca", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_019", "event_type": "ZONE_ENTER", "timestamp": 63.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "323070c5-8d88-4e76-be3e-41427a57233e", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_019", "event_type": "ZONE_EXIT", "timestamp": 82.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "71c54d5c-ab10-4799-82ae-e71e54909a96", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_020", "event_type": "ZONE_ENTER", "timestamp": 68.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "09f3ba0d-18d3-4a32-b4ae-7d2ca5c63688", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_020", "event_type": "ZONE_EXIT", "timestamp": 68.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "d3f6364e-ddd9-40e1-9ad8-6485dd399d00", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_021", "event_type": "ZONE_ENTER", "timestamp": 70.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_id": "271f4d7b-1214-4a70-abca-8c9e9b330320", "store_id": "STORE_001", "camera_id": "CAM_2", "visitor_id": "CAM2_VIS_021", "event_type": "ZONE_EXIT", "timestamp": 70.0, "zone_id": "CAM2_ZONE", "dwell_ms": 0, "is_staff": false, "confidence": 0.9, "metadata": {}}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 90, "queue_depth": 1}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 180, "queue_depth": 1}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 270, "queue_depth": 1}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 360, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 450, "queue_depth": 1}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 540, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 630, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 720, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 810, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 900, "queue_depth": 4}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 990, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 1080, "queue_depth": 1}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 1170, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 1260, "queue_depth": 1}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 1350, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 1440, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 1530, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 1620, "queue_depth": 1}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 1710, "queue_depth": 0}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 1800, "queue_depth": 1}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 1890, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 1980, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 2070, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 2160, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 2250, "queue_depth": 0}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 2340, "queue_depth": 0}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 2430, "queue_depth": 0}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 2520, "queue_depth": 0}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 2610, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 2700, "queue_depth": 1}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 2790, "queue_depth": 0}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 2880, "queue_depth": 0}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 2970, "queue_depth": 0}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 3060, "queue_depth": 0}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 3150, "queue_depth": 1}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 3240, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 3330, "queue_depth": 2}
+{"event_type": "QUEUE_SNAPSHOT", "camera_id": "CAM_5", "frame": 3420, "queue_depth": 1}
